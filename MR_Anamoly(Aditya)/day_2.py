@@ -3,7 +3,7 @@
 
 while True:
 
-    print(f"_______________Simple calculator_______________\n  ")
+    print(f"______________Simple calculator_______________\n  ")
    
     print(f"Select operation number:\n1. Add\n2. Subtract\n3. Multiply\n4. Divide\n5. Exit")
    
