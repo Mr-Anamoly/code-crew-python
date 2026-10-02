@@ -24,8 +24,8 @@ while n<27 :
         decrypted = decrypted + listletters[shiftvar]
     
     print(f"Shift {n}: {decrypted}")
+    input("Press enter to continue...")
     n+=1
 
 # The logic took me half an hour to figure out but I finally did it from zero.
 # quite bad but need improvements.
-# I will try to make a better version of this program in the future.
